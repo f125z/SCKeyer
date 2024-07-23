@@ -1,1 +1,3 @@
-var validate = true;
+function checkHash() {
+  return true;
+}
